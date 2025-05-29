@@ -1,6 +1,12 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/installer/compare/v5.15.0...master)
+## [Unreleased](https://github.com/laravel/installer/compare/1.0.0...master)
+
+## [1.0.0](https://github.com/laravel/installer/compare/v5.15.0...1.0.0) - 2025-05-28
+
+.
+
+**Full Changelog**: https://github.com/vhospedagem/laravel-installer/commits/1.0.0
 
 ## [v5.15.0](https://github.com/laravel/installer/compare/v5.14.2...v5.15.0) - 2025-05-20
 
